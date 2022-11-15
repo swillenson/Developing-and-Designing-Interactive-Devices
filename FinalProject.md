@@ -1,5 +1,8 @@
 # Final Project
 
+Presentation Slide:
+[IDD Final Project Slide.pdf](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/files/10010099/IDD.Final.Project.Slide.pdf)
+
 Using the tools and techniques you learned in this class, design, prototype and test an interactive device.
 
 Project plan - November 15
